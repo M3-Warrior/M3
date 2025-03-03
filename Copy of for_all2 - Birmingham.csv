@@ -1,0 +1,52 @@
+"Birmingham, England, UK",,,,,,,,,,,
+,,,,,,,,,,,
+Population demographics,,,,,,,,,,,
+Constituency,Total population,Population under 15,Population 65 and over,Average annual income of employed residents in British pounds,Percentage of overcrowded households,Unemployment rate of residents age 16 and over,Percentage of universal credit claimants,Percentage with no qualifications,Percentage of households with 2+ cars or vans,Average environmental score¹,
+Birmingham Edgbaston,108376,19874,15841,31945,8.9,6.1,29.4,4.3,20.16,0.27,
+Birmingham Erdington,130440,27044,18330,32595,8,17.5,31,12.9,19.2,0.37,
+Birmingham Hall Green and Moseley,124964,27467,15607,33457,13,4.8,27.3,10,21.49,0.30,
+Birmingham Hodge Hill and Solihull North,97889,25050,10721,30981,11,5.3,29.7,17.6,21.21,0.38,
+Birmingham Ladywood,126324,28203,8000,31607,28.3,8.1,27.8,8.2,9.41,0.40,
+Birmingham Northfield,112838,22940,18644,31280,8.2,5,32.7,7.9,21.98,0.30,
+Birmingham Perry Barr,113185,25336,12141,31693,12.9,10.4,28.6,15.3,18.84,0.36,
+Birmingham Selly Oak,113981,19608,16090,36743,8,8.8,29.7,8.7,21.02,0.29,
+Birmingham Yardley,113524,26139,14243,35963,11.6,9.2,30,18.1,21.18,0.33,
+Sutton Coldfield,96726,16645,22196,42690,3.7,2.2,36.8,6.4,34.24,0.17,
+,,,,,,,,,,,
+Primary method of travel to work,,,,,,,,,,,
+Constituency,Work mainly from home,"Underground, metro, lightrail, tram",Train,"Bus, minibus, or coach",Taxi,"Motorcycle, scooter, or moped",Driving car or van,Passenger in car or van,Bicycle,On foot,Other
+Birmingham Edgbaston,1651,115,1367,8029,223,178,23147,1856,854,4289,180
+Birmingham Erdington,978,75,1791,7656,249,255,22020,2406,623,3647,222
+Birmingham Hall Green and Moseley,1715,136,1524,7850,374,161,23216,2213,1030,3747,308
+Birmingham Hodge Hill and Solihull North,864,59,654,7339,467,145,19912,2420,398,3412,325
+Birmingham Ladywood,1343,474,2634,9430,462,97,16438,2098,635,10718,409
+Birmingham Northfield,1220,81,2901,6382,208,309,25588,2386,535,3282,189
+Birmingham Perry Barr,1127,161,821,9117,309,140,24202,2790,381,3175,275
+Birmingham Selly Oak,1519,114,3109,6573,229,243,24272,2134,1108,4286,224
+Birmingham Yardley,1099,60,1577,7921,346,246,24595,2511,623,3593,219
+Sutton Coldfield,2886,92,3372,2820,109,196,32115,1912,442,2560,189
+,,,,,,,,,,,
+Total Number of Dwellings by Type,,,,,,,,,,,
+,House or bungalow,,,,,"Flat, maisonette, or apartment",,,,,
+Constituency,1 bedroom,2 bedrooms,3 bedrooms,4 bedrooms,5+ bedrooms,1 bedroom,2 bedrooms,3 bedrooms,4 bedrooms,5+ bedrooms,
+Birmingham Edgbaston,961,5762,14908,3934,2118,5594,4889,984,89,176,
+Birmingham Erdington,853,5397,20909,2937,786,4573,4820,425,57,51,
+Birmingham Hall Green and Moseley,599,5180,16235,5283,2788,5215,2845,588,130,72,
+Birmingham Hodge Hill and Solihull North,1049,7091,21007,2838,1094,2985,2342,957,47,23,
+Birmingham Ladywood,863,6310,10959,3036,1178,11680,10419,2421,160,206,
+Birmingham Northfield,1402,7197,21881,3208,778,3947,3720,1019,21,21,
+Birmingham Perry Barr,552,6248,20018,3557,1726,3179,1758,515,86,55,
+Birmingham Selly Oak,811,6524,19493,4328,2040,3449,3449,736,101,107,
+Birmingham Yardley,634,7018,22603,2767,919,3907,2800,547,46,51,
+Sutton Coldfield,607,3962,16339,9134,2722,2503,4163,345,23,13,
+,,,,,,,,,,,
+Sources:,,,,,,,,,,,
+Map of Birmingham constituencies:,https://www.birmingham.gov.uk/downloads/file/4604/map_birmingham_constituencies,,,,,,,,,,
+Demographic data: ,https://cityobservatory.birmingham.gov.uk/explore/?sort=modified&refine.theme=Census&refine.theme=Economy&refine.theme=Education&q=constituency&disjunctive.theme&disjunctive.publisher&disjunctive.keyword&disjunctive.additional-metadata.area-type&disjunctive.additional-metadata.mappable-area-type,,,,,,,,,,
+Average annual earnings (a download): ,https://www.birmingham.gov.uk/download/downloads/id/2867/average_earnings_2024.pdf,,,,,,,,,,
+Method of travel to work data: ,https://www.birmingham.gov.uk/downloads/file/4571/census_2011_sk701_method_of_travel_to_work,,,,,,,,,,
+Dwelling Type data: ,https://www.ons.gov.uk/peoplepopulationandcommunity/housing/adhocs/008469ct07992011censustenurebyaccommodationtypebynumberofbedroomsparliamentaryconstituenciesbirminghamandsuttoncoldfield,,,,,,,,,,
+"In all cases most recently available data was used. Some data was aggregated from Ward level data. Most wards fall within a single constituency, but some are split. Data was assigned to the constituency containing the majority of the ward.",,,,,,,,,,,
+,,,,,,,,,,,
+Footnote:,,,,,,,,,,,
+"¹ Obtained from https://www.birmingham.gov.uk/downloads/file/24587/open_space_assessment_2022, the ""Environmental Score""  is a summary statistic that takes into account access to greenspace, if the location is a heat island or prone to floods, and environmental health factors. A lower score is better, a higher score is worse. Raw data on land use and open space can also be found in the same report. The Environmental Score has been averaged across all Wards in a constituency. ",,,,,,,,,,,
